@@ -1,0 +1,53 @@
+{
+  "RootLayout": {
+    "home_link": "Strona główna",
+    "about_link": "O nas",
+    "portfolio_link": "link",
+    "map_link": "map",
+    "sign_in_link": "Zaloguj się",
+    "sign_up_link": "Zarejestruj się"
+  },
+  "BaseTemplate": {
+    "seodescription": "seodescription",
+    "seotitle": "seotitle",
+    "description": "asdas",
+    "title": "Mokre statki wudeczeka",
+    "made_with": "Made with"
+  },
+  "Index": {
+    "meta_title": "Microfrontends",
+    "meta_description": "description"
+  },
+  "About": {
+    "meta_title": "O nas",
+    "meta_description": "Opis O nas",
+    "about_paragraph": "Witamy na naszej stronie O nas! Jesteśmy zespołem pasjonatów oddanych tworzeniu oprogramowania.",
+    "translation_powered_by": "Tłumaczenie zasilane przez"
+  },
+  "Portfolio": {
+    "meta_title": "kolejne menu",
+    "meta_description": "Witamy na stronie mojego portfolio!",
+    "presentation": "Witamy na mojej stronie portfolio! Znajdziesz tutaj starannie dobraną kolekcję mojej pracy i osiągnięć. Poprzez to portfolio prezentuję swoją wiedzę, kreatywność i wartość, jaką mogę dodać do Twoich projektów.",
+    "portfolio_name": "Portfolio {name}",
+    "error_reporting_powered_by": "Raportowanie błędów zasilane przez",
+    "coverage_powered_by": "Pokrycie kodu zasilane przez"
+  },
+  "PortfolioSlug": {
+    "meta_title": "Portfolio {slug}",
+    "meta_description": "Opis Portfolio {slug}",
+    "header": "Portfolio {slug}",
+    "content": "Stworzył zestaw materiałów promocyjnych i elementów identyfikacji wizualnej dla wydarzenia firmowego. Zaprojektował spójny temat wizualny, obejmujący logo, plakaty, banery i zasoby cyfrowe. Zintegrował tożsamość marki klienta, nadając jej jednocześnie nowoczesne i innowacyjne podejście. Uzyskano pozytywne opinie od uczestników, co doprowadziło do udanego wydarzenia z większym zaangażowaniem uczestników i lepszą widocznością marki.",
+    "log_management_powered_by": "Zarządzanie logami zasilane przez"
+  },
+  "SignIn": {
+    "meta_title": "Zaloguj się",
+    "meta_description": "Zaloguj się na swoje konto z łatwością."
+  },
+  "SignUp": {
+    "meta_title": "Zarejestruj się",
+    "meta_description": "Stwórz konto bez wysiłku dzięki naszemu intuicyjnemu procesowi rejestracji."
+  },
+  "UserProfile": {
+    "meta_title": "Profil użytkownika"
+  }
+}

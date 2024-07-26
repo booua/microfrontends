@@ -1,0 +1,10 @@
+node_modules
+out
+!.storybook
+.eslintrc.cjs
+lint-staged.config.js
+next.config.mjs
+postcss.config.cjs
+postcss.config.js
+prettier.config.js
+src/env.js
